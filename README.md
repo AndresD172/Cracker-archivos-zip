@@ -20,7 +20,7 @@ Para ejecutar este programa debes de copiar el repositorio dentro de cualquier c
 Advertencia:
 
 El uso de este programa conlleva la modificación parcial de las variables de entorno, ejecute los pasos al pie de la letra y no modifique otras cosas.
-Este programa no está destinado al uso en entornos meramente educativos, no se permite el uso en acciones maliciosas.
+Este programa está destinado al uso en entornos meramente educativos, no se permite el uso en acciones maliciosas.
 
 <------------------------------------------------------------------------------------------------------------------------------->
 
