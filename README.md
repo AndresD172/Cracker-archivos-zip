@@ -25,3 +25,6 @@ Este programa está destinado al uso en entornos meramente educativos, no se per
 <------------------------------------------------------------------------------------------------------------------------------->
 
 Link de instrucciones: https://www.softzone.es/windows-10/como-se-hace/cambiar-path-variables-entorno/
+
+Imagen del script en funcionamiento:
+![image](https://user-images.githubusercontent.com/57467120/131042853-57235f2f-21e4-4a7a-9f80-de4462572e40.png)
